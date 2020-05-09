@@ -113,3 +113,6 @@ nodemon.json
 
 # gcloud
 app.yaml
+
+# Notes
+Notes.md
